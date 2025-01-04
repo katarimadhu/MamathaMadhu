@@ -1,2 +1,2 @@
-# MamathaMadhu
+# Madhu
 Shell-scripting-Example project
